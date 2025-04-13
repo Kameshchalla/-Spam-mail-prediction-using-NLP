@@ -4,7 +4,7 @@
 
 This project demonstrates a **Spam Mail Prediction** system using **Logistic Regression**. The objective is to classify email messages as either **Spam** or **Not Spam** based on their content.
 
-![WordCloud All Messages.PNG]
+![WordCloud All Messages](https://raw.githubusercontent.com/Kameshchalla/-Spam-mail-prediction-using-NLP/main/Spam%20mail%20prediction%20using%20NLP/assets/WordCloud%20All%20Messages.PNG)
 
 The system uses **Natural Language Processing (NLP)** techniques to convert textual data into numerical vectors for model training and evaluation.
 
